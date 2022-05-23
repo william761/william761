@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @william761
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Statitics and C
+- 🌱 I’m currently learning Statistics and C
 - 💞️ I’m looking to collaborate on all things Software Engineering
 
 
